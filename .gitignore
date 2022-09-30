@@ -1,0 +1,12 @@
+
+# SPDX-License-Identifier: CC0-1.0
+
+.snakemake*
+.ipynb_checkpoints
+__pycache__
+*dconf
+gurobi.log
+.vscode
+
+/data/*
+!/data/source.md
