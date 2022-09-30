@@ -10,3 +10,4 @@ gurobi.log
 
 /data/*
 !/data/source.md
+!/data/README.md
