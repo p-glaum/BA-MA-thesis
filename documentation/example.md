@@ -1,3 +1,13 @@
-# Documentation example
+# Script name
 
-Markdown files like this can be used an additional documentation for your code. You can document your workflow here and complex scripts with a general explanation complementing your comments inside the scripts. 
+
+## Explanation
+General explanation of the script.
+
+## Inputs
+- file 1
+- file 2
+
+## Outputs
+- file 1
+- file 2
