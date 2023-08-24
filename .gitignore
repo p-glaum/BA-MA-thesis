@@ -1,14 +1,40 @@
 
 # SPDX-License-Identifier: CC0-1.0
 
-.snakemake*
-.ipynb_checkpoints
+*.ipynb_checkpoints
 __pycache__
 *dconf
 gurobi.log
 .vscode
-.pdf
-
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.bcf
+*.fls
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.pdf
+*.pptx
 /data/*
 !/data/source.md
 !/data/README.md
